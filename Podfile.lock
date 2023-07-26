@@ -1,0 +1,20 @@
+PODS:
+  - GoogleWebRTC (1.1.29229)
+  - WKWebViewRTC (0.4.0):
+    - GoogleWebRTC (= 1.1.29229)
+
+DEPENDENCIES:
+  - WKWebViewRTC
+
+SPEC REPOS:
+  trunk:
+    - GoogleWebRTC
+    - WKWebViewRTC
+
+SPEC CHECKSUMS:
+  GoogleWebRTC: ffbf2dca3bdef0fbeebcff497e0a659bd69761c8
+  WKWebViewRTC: 52a6440ea6fbc8e220802a8cc7ace79ece32cf52
+
+PODFILE CHECKSUM: 4eebbf815b19887f3be568e526ae066840621711
+
+COCOAPODS: 1.12.1
